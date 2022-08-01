@@ -1025,53 +1025,7 @@ https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/pla
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0Mjc3MzVf/RedboxSpotlight2.png" group-title="MOVIES",Redbox Spotlight 2
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BMJDW7r.png" group-title="XXX",RedTraffic Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iNmHyo2.png" group-title="XXX",RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L0VcV7w.png" group-title="XXX",RedTraffic Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xfIelNY.png" group-title="XXX",RedTraffic Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rzZYfkN.png" group-title="XXX",RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bp1qW74.png" group-title="XXX",RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6LqaFuD.png" group-title="XXX",RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3LXxuv.png" group-title="XXX",RedTraffic Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uosNpWk.png" group-title="XXX",RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6dgyIz0.png" group-title="XXX",RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/acW4Fe9.png" group-title="XXX",RedTraffic MILF
-http://live.redtraffic.xyz/milf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2kSwfv.png" group-title="XXX",RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvqysKS.png" group-title="XXX",RedTraffic POV
-http://live.redtraffic.xyz/pov.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5WSwI1A.png" group-title="XXX",RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3nOaNzu.png" group-title="XXX",RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k85bqov.png" group-title="XXX",RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
 
 #EXTINF:-1 tvg-id="RiauTV.id" tvg-country="ID-RI" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/i48fjT3.png" group-title="TV DAERAH",Riau TV (576p) [Not 24/7]
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
@@ -1485,8 +1439,6 @@ https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="ZooMooAustralia.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="KIDS",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",BBW
-http://cdn.adultiptv.net/smoking.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/K8YUMMt.png",Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
@@ -1711,66 +1663,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w1116581167.m3u8
 
 
-#EXTINF:-1 tvg-id="█▀▄▀▄▀ADULT▀▄▀▄▀█" tvg-name="█▀▄▀▄▀ADULT▀▄▀▄▀█" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",█▀▄▀▄▀ADULT▀▄▀▄▀█
-http://geniuses-line.com:22455/Biljana/123456789/9759
-#EXTINF:-1 tvg-id="PINK_EROTIC_(18+)" tvg-name="PINK EROTIC (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic-logo.png" group-title="XXX" parent-code="1234",PINK EROTIC (18+)
-http://geniuses-line.com:22455/Biljana/123456789/9760
-#EXTINF:-1 tvg-id="PINK_EROTIC_2_(18+)" tvg-name="PINK EROTIC 2 (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic2-logo.png" group-title="XXX" parent-code="1234",PINK EROTIC 2 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/9761
-#EXTINF:-1 tvg-id="PINK_EROTIC_3_(18+)" tvg-name="PINK EROTIC 3 (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic3.png" group-title="XXX" parent-code="1234",PINK EROTIC 3 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11180
-#EXTINF:-1 tvg-id="PINK_EROTIC_4_(18+)" tvg-name="PINK EROTIC 4 (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic4.png" group-title="XXX" parent-code="1234",PINK EROTIC 4 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11181
-#EXTINF:-1 tvg-id="PINK_EROTIC_6_(18+)" tvg-name="PINK EROTIC 6 (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/pink_erotic_6_logo.png" group-title="XXX" parent-code="1234",PINK EROTIC 6 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11182
-#EXTINF:-1 tvg-id="PINK_EROTIC_7_(18+)" tvg-name="PINK EROTIC 7 (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/pink_erotic_7_logo.png" group-title="XXX" parent-code="1234",PINK EROTIC 7 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11183
-#EXTINF:-1 tvg-id="ADULT_MIX_(18+)" tvg-name="ADULT MIX (18+)" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="XXX" parent-code="1234",ADULT MIX (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11184
-#EXTINF:-1 tvg-id="ADULT_MIX_2_(18+)" tvg-name="ADULT MIX 2 (18+)" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="XXX" parent-code="1234",ADULT MIX 2 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11185
-#EXTINF:-1 tvg-id="ADULT_MIX_3_(18+)" tvg-name="ADULT MIX 3 (18+)" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="XXX" parent-code="1234",ADULT MIX 3 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11186
-#EXTINF:-1 tvg-id="ADULT_MIX_4_(18+)" tvg-name="ADULT MIX 4 (18+)" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="XXX" parent-code="1234",ADULT MIX 4 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11187
-#EXTINF:-1 tvg-id="ADULT_MIX_5_(18+)" tvg-name="ADULT MIX 5 (18+)" tvg-logo="https://www.logolynx.com/images/logolynx/80/8029be5f3fb7e3859600ae770aae95fc.png" group-title="XXX" parent-code="1234",ADULT MIX 5 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11188
-#EXTINF:-1 tvg-id="BALKAN_EROTIC_(18+)" tvg-name="BALKAN EROTIC (18+)" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Balkan_Erotic.png" group-title="XXX" parent-code="1234",BALKAN EROTIC (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11189
-#EXTINF:-1 tvg-id="BRAZZERS_(18+)" tvg-name="BRAZZERS (18+)" tvg-logo="https://i.redd.it/9nfas2kg75py.png" group-title="XXX" parent-code="1234",BRAZZERS (18+)
-http://geniuses-line.com:22455/Biljana/123456789/9762
-#EXTINF:-1 tvg-id="DORCEL_TV_(18+)" tvg-name="DORCEL TV (18+)" tvg-logo="https://www.a1.hr/var/ezflow_site/storage/images/televizija/dorcel_tv/22706-3-cro-HR/dorcel_tv.png" group-title="XXX" parent-code="1234",DORCEL TV (18+)
-http://geniuses-line.com:22455/Biljana/123456789/9763
-#EXTINF:-1 tvg-id="FAKE_TAXI_(18+)" tvg-name="FAKE TAXI (18+)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/1024px-Fake_Taxi_logo.svg.png" group-title="XXX" parent-code="1234",FAKE TAXI (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11191
-#EXTINF:-1 tvg-id="HUSTLER_TV_(18+)" tvg-name="HUSTLER TV (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hustlertv-logo.png" group-title="XXX" parent-code="1234",HUSTLER TV (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10065
-#EXTINF:-1 tvg-id="PENTHOUSE_(18+)" tvg-name="PENTHOUSE (18+)" tvg-logo="http://geniuses-line.com:22455/images/d7d0e52b810a390730606baff838469e.png" group-title="XXX" parent-code="1234",PENTHOUSE (18+)
-http://geniuses-line.com:22455/Biljana/123456789/9981
-#EXTINF:-1 tvg-id="DUSK_(18+)" tvg-name="DUSK (18+)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Dusk-logo.png" group-title="XXX" parent-code="1234",DUSK (18+)
-http://geniuses-line.com:22455/Biljana/123456789/11190
-#EXTINF:-1 tvg-id="REDLIGHT_(18+)" tvg-name="REDLIGHT (18+)" tvg-logo="https://www.redlightmanagement.com/wp-content/uploads/2012/08/red-light-logo-l.jpeg" group-title="XXX" parent-code="1234",REDLIGHT (18+)
-http://geniuses-line.com:22455/Biljana/123456789/9980
-#EXTINF:-1 tvg-id="XXX_1_(18+)" tvg-name="XXX 1 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 1 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10052
-#EXTINF:-1 tvg-id="XXX_2_(18+)" tvg-name="XXX 2 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 2 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10053
-#EXTINF:-1 tvg-id="VENUS_(18+)" tvg-name="VENUS (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",VENUS (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10059
-#EXTINF:-1 tvg-id="JASMIN_TV_(18+)" tvg-name="JASMIN TV (18+)" tvg-logo="http://173.249.22.173:82/logo_channels/jasmin_tv.png" group-title="XXX" parent-code="1234",JASMIN TV (18+)
-http://geniuses-line.com:22455/Biljana/123456789/9972
-#EXTINF:-1 tvg-id="XXX_3_(18+)" tvg-name="XXX 3 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 3 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10056
-#EXTINF:-1 tvg-id="XXX_4_(18+)" tvg-name="XXX 4 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 4 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10057
-#EXTINF:-1 tvg-id="XXX_5_(18+)" tvg-name="XXX 5 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 5 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10054
-#EXTINF:-1 tvg-id="XXX_6_(18+)" tvg-name="XXX 6 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 6 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10061
-#EXTINF:-1 tvg-id="XXX_7_(18+)" tvg-name="XXX 7 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 7 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10064
-#EXTINF:-1 tvg-id="XXX_8_(18+)" tvg-name="XXX 8 (18+)" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 8 (18+)
-http://geniuses-line.com:22455/Biljana/123456789/10058
+
 
 #EXTINF:-1 tvg-id="█▀▄▀▄▀SPORT▀▄▀▄▀█" tvg-name="█▀▄▀▄▀SPORT▀▄▀▄▀█" tvg-logo="/noicon.png" group-title="SPORT" ,█▀▄▀▄▀SPORT▀▄▀▄▀█
 http://geniuses-line.com:22455/Biljana/123456789/9650
